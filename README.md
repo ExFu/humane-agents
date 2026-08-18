@@ -1,6 +1,8 @@
 # ExFu Humane Agents
 
-> `exfu-humane-agents` · conventions for the human–agent interface
+> `exfu-humane-agents` · <https://github.com/ExFu/humane-agents>
+
+Conventions for the human–agent interface.
 
 Agent output is optimised for correctness and completeness — which, left
 unattended, means it is optimised *against* human cognition: dense, long,
