@@ -2,13 +2,14 @@
 id: M1-first-convention
 plan_kind: milestone
 milestone_index: 1
-status: draft
+status: active
 ---
 
 # M1-first-convention — the plugin exists and ships its first convention
 
-**Status**: Draft. Instantiated 2026-08-18 from the T1 milestone sketch.
-Awaiting operator acceptance (target-selection ceremony).
+**Status**: Accepted 2026-08-18 by the operator (target-selection ceremony
+recorded in the event log). Instantiated 2026-08-18 from the T1 milestone
+sketch. Open until DoD item 3 (marketplace installability) is met.
 
 ## Definition of done
 

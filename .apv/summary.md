@@ -1,28 +1,34 @@
-# Project state — generated 2026-08-18T12:50:47Z
+# Project state — generated 2026-08-18T13:01:03Z
 
-**Total events:** 11  ·  **Draft:** 5  ·  **Live:** 0  ·  **Dormant:** 0  ·  **Closed:** 0  ·  **Orphaned:** 0
+**Total events:** 18  ·  **Draft:** 1  ·  **Live:** 3  ·  **Dormant:** 0  ·  **Closed:** 1  ·  **Orphaned:** 0
 
 ## Live work
 
 ### By thematic parent
 
+- **(T1 itself)**
+  - `T1-top-level` (2 events): entity.created → entity.accepted
+
+- **(T2 itself)**
+  - `T2-communication` (3 events): entity.created → relationship.spawns → entity.accepted
+
+- **(milestone)**
+  - `M1-first-convention` (3 events): entity.created → relationship.spawns → entity.accepted
+
+### By milestone
+
+- **(self: M1-first-convention)**
+  - `M1-first-convention`
+
 ## Awaiting operator
 
-**Acceptance ceremonies pending** (draft plans — the draft gate blocks implementation against them):
-- `M1-first-convention` (authored 2026-08-18, 0 commit(s) ago)
-- `T1-top-level` (authored 2026-08-18, 0 commit(s) ago)
-- `T2-communication` (authored 2026-08-18, 0 commit(s) ago)
-- `T3-reporting-skill` (authored 2026-08-18, 0 commit(s) ago)
+**Closure ceremonies pending** (all scheduled T3s closed; milestone still live):
+- `M1-first-convention`
 
 ## Draft
 
 - **inbox-item**
   - `2026-08-18.apv-repo-bootstrap`
-- **plan**
-  - `M1-first-convention`
-  - `T1-top-level`
-  - `T2-communication`
-  - `T3-reporting-skill`
 
 ## Blocked
 
@@ -34,7 +40,7 @@ _No orphaned entities._
 
 ## Recently closed
 
-_None._
+- `T3-reporting-skill` (plan)
 
 ## Notable patterns
 
@@ -42,7 +48,7 @@ _No flapping closures._
 
 ## Milestone progress
 
-- **M1-first-convention**: 0/1 T3 complete (0%); 0 live
+- **M1-first-convention**: 1/1 T3 complete (100%); 0 live
 
 ---
 _5 entities · 4 relationships · 1 decisions._

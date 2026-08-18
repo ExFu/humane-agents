@@ -4,19 +4,19 @@ plan_kind: thematic
 tier: 3
 t2_parent: T2-communication
 milestone: M1-first-convention
-status: draft
+status: completed
 ---
 
 # T3-reporting-skill — ship the dual-audience reporting convention
 
-**Status**: Draft, **retrospective**: this brief documents work already
+**Status**: Completed, **retrospective**: this brief documents work already
 implemented on 2026-08-18 (originally on branch
 `claude/dual-format-reporting-skill-dae67d` of the
 `agent-planning-and-delegating` repo, transplanted here when the operator
 ruled this project into existence). It is written executable-cold anyway so
 the record of what was built, and how it was verified, survives without
-conversational context. Awaiting operator acceptance; on acceptance the
-completion events for this work can be recorded.
+conversational context. Accepted 2026-08-18 by the operator; completion and
+verification recorded in the event log the same day.
 
 ## Task
 

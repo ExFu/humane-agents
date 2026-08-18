@@ -2,14 +2,15 @@
 id: T2-communication
 plan_kind: thematic
 tier: 2
-status: draft
+status: active
 ---
 
 # T2-communication — Communication theme — what agents emit for humans
 
-**Status**: Draft. Spawned from `T1-top-level` §3 (theme: Communication) on
+**Status**: Accepted 2026-08-18 by the operator (ceremony recorded in the
+event log). Spawned from `T1-top-level` §3 (theme: Communication) on
 2026-08-18, instantiated because work on the theme had already begun (the
-reporting convention). Awaiting operator acceptance.
+reporting convention).
 
 ## 1. Why (inherited, condensed)
 

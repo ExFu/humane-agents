@@ -2,14 +2,15 @@
 id: T1-top-level
 plan_kind: thematic
 tier: 1
-status: draft
+status: active
 ---
 
 # T1-top-level — ExFu Humane Agents — Top-level plan
 
-**Status**: Draft. Authored 2026-08-18 (Claude Code session, from the operator's
-direction in the agent-planning-and-delegating repo where the first convention
-was built). Awaiting operator acceptance ceremony.
+**Status**: Accepted 2026-08-18 by the operator (ceremony recorded in the
+event log; Q1–Q4 left open at acceptance). Authored 2026-08-18 (Claude Code
+session, from the operator's direction in the agent-planning-and-delegating
+repo where the first convention was built).
 
 ---
 
