@@ -4,3 +4,11 @@
 .apv/.pending-extract
 # agent-plan-visualiser local per-checkout state — never tracked
 .apv/.toolchain-home
+# ExFu delegation working artifacts — local, disposable (T2-handoff principle 7)
+.exfu/handoffs/
+.exfu/returns/
+.exfu/state/
+# local junk
+.DS_Store
+.omc/
+.idea

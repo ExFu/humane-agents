@@ -1,0 +1,17 @@
+{
+  "name": "exfu-humane-agents",
+  "version": "0.1.0",
+  "description": "Conventions for the human–agent interface: skills that make agent output serve human cognition — time-poor readers, jargon-blind readers, ADHD-friendly registers. First convention: dual-audience reporting (a rich agent report plus a short, plain human report).",
+  "author": {
+    "name": "Alastair Brayne"
+  },
+  "license": "Proprietary",
+  "keywords": [
+    "reporting",
+    "human-interface",
+    "communication",
+    "accessibility",
+    "conventions",
+    "readability"
+  ]
+}

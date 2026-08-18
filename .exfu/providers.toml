@@ -1,0 +1,10 @@
+# ExFu provider manifest — wires optional providers into the delegation core.
+# This repo uses the ExFu Planning Methodology and APV tracking, so both
+# seams are filled. Values are opaque skill names to the core.
+
+[providers]
+grounding = "exfu-grounding"
+capture = "exfu-planning-apv-integration"
+
+[integrity]
+protected_paths = [".apv/events.jsonl", ".apv/"]
