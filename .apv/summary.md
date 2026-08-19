@@ -1,13 +1,13 @@
-# Project state — generated 2026-08-19T12:51:28Z
+# Project state — generated 2026-08-19T13:20:19Z
 
-**Total events:** 20  ·  **Draft:** 1  ·  **Live:** 3  ·  **Dormant:** 0  ·  **Closed:** 1  ·  **Orphaned:** 0
+**Total events:** 23  ·  **Draft:** 1  ·  **Live:** 3  ·  **Dormant:** 0  ·  **Closed:** 1  ·  **Orphaned:** 0
 
 ## Live work
 
 ### By thematic parent
 
 - **(T1 itself)**
-  - `T1-top-level` (2 events): entity.created → entity.accepted
+  - `T1-top-level` (3 events): entity.created → entity.accepted → entity.extended
 
 - **(T2 itself)**
   - `T2-communication` (3 events): entity.created → relationship.spawns → entity.accepted
@@ -51,4 +51,4 @@ _No flapping closures._
 - **M1-first-convention**: 1/1 T3 complete (100%); 0 live
 
 ---
-_5 entities · 4 relationships · 1 decisions._
+_5 entities · 4 relationships · 2 decisions._

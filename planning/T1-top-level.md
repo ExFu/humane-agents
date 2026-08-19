@@ -92,3 +92,11 @@ Each theme becomes a T2 when work on it begins.
 - **Q4 — licensing posture.** Siblings are proprietary; these conventions
   arguably spread further (and serve the thesis better) under a permissive
   licence. Operator ruling needed; LICENSE file deferred until then.
+
+## 5. Rulings (2026-08-19)
+
+- **Q4 (licensing posture)**: same licence as the other ExFu plugins —
+  the proprietary licence (public repo for distribution convenience, no
+  open-source grant; its §7 explicitly permits a later open-source
+  re-release, so the permissive option stays open without blocking now).
+  LICENSE file added same day. Q1–Q3 remain open.

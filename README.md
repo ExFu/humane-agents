@@ -57,5 +57,6 @@ claude plugin install exfu-humane-agents@exfu
 
 ## License
 
-Pending an operator ruling (T1 open question Q4). All rights reserved until
-a LICENSE file lands.
+Proprietary — see [LICENSE](LICENSE). This repository is public for
+distribution convenience; publication does not grant an open-source licence.
+Redistribution enquiries: al@exfu.ai
