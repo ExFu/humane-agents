@@ -1,6 +1,6 @@
-# Project state — generated 2026-08-18T13:01:03Z
+# Project state — generated 2026-08-19T12:51:28Z
 
-**Total events:** 18  ·  **Draft:** 1  ·  **Live:** 3  ·  **Dormant:** 0  ·  **Closed:** 1  ·  **Orphaned:** 0
+**Total events:** 20  ·  **Draft:** 1  ·  **Live:** 3  ·  **Dormant:** 0  ·  **Closed:** 1  ·  **Orphaned:** 0
 
 ## Live work
 
@@ -13,7 +13,7 @@
   - `T2-communication` (3 events): entity.created → relationship.spawns → entity.accepted
 
 - **(milestone)**
-  - `M1-first-convention` (3 events): entity.created → relationship.spawns → entity.accepted
+  - `M1-first-convention` (4 events): relationship.spawns → entity.accepted → entity.progressed
 
 ### By milestone
 
@@ -28,7 +28,7 @@
 ## Draft
 
 - **inbox-item**
-  - `2026-08-18.apv-repo-bootstrap`
+  - `2026-08-18.apv-repo-bootstrap` (1d untriaged)
 
 ## Blocked
 

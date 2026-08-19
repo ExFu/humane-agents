@@ -18,9 +18,10 @@ sketch. Open until DoD item 3 (marketplace installability) is met.
 2. `exfu-reporting` shipped inside the plugin with its RED/GREEN evidence
    recorded. ✔ at authoring time (see `T3-reporting-skill` §Verification).
 3. Plugin installable via the `exfu` marketplace
-   (`claude plugin install exfu-humane-agents@exfu`). ✘ — requires a
-   marketplace entry in `ExFu/exfu-marketplace` and a GitHub remote for this
-   repo; both are operator/external steps outside this repo.
+   (`claude plugin install exfu-humane-agents@exfu`). ✔ 2026-08-19 — remote
+   `ExFu/humane-agents` pushed and the marketplace entry landed in
+   `ExFu/exfu-marketplace` (commit 31722af); entry verified present in a
+   refreshed local catalogue.
 4. README thesis published (the Why, the admission rule, the roadmap). ✔ at
    authoring time.
 
